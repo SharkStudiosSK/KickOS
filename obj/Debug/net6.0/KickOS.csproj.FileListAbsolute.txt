@@ -1,0 +1,12 @@
+E:\Ja\Projects\KickOS\bin\Debug\net6.0\KickOS.deps.json
+E:\Ja\Projects\KickOS\bin\Debug\net6.0\KickOS.dll
+E:\Ja\Projects\KickOS\bin\Debug\net6.0\KickOS.pdb
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\KickOS.csproj.AssemblyReference.cache
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\KickOS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\KickOS.AssemblyInfoInputs.cache
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\KickOS.AssemblyInfo.cs
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\KickOS.csproj.CoreCompileInputs.cache
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\KickOS.dll
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\refint\KickOS.dll
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\KickOS.pdb
+E:\Ja\Projects\KickOS\obj\Debug\net6.0\ref\KickOS.dll
